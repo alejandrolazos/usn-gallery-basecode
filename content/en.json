@@ -1,0 +1,115 @@
+{
+    "home": {
+        "btn1": "Close and explore others",
+        "intro_title": "<span>An interactive space that curates and brings</span><span>together creatives to ignite discovery,</span><span>imagination, and conversation</span>"
+    },
+    "galaxies": {
+        "hero": {
+            "header": "Current Exhibition",
+            "title": "Exhibition",
+            "enter_btn": "View Exhibition"
+        },
+        "exhibition": {
+            "back_btn": "Back",
+            "exhib_by": "Exhibition by",
+            "read_more": "Read More",
+            "about_artists": "<small>About the</small> Artists",
+            "explore": "Start to explore",
+            "close": "Close",
+            "view_more": "Do you want to know more?",
+            "contact": "Let’s talk"
+        },
+        "coming_soon": "Coming Soon"
+    },
+    "menu": {
+        "home": "Galleries",
+        "events": "Events",
+        "about": "About",
+        "access": "Access",
+        "contact": "Contact",
+        "gallery": "Gallery",
+        "subscribe": "Subscribe to our news",
+        "email": "Type your email",
+        "msg1": "Please wait, we are adding your email address..",
+        "msg2": "We couldn't send your message. Please try again later."
+    },
+    "access": {
+        "t0en": "Access",
+        "t0jp": "経路案内",
+        "link": "Get Directions",
+        "st1": "Gallery",
+        "ht1": "Exhibition Hours",
+        "ht2": "Non-Exhibition Hours",
+        "t1": "Tokyo",
+        "address1": "1-1-3 Jingumae, Shibuya-ku<br/>Tokyo, Japan 150-0001<br/>",
+        "p1": "7 min. from JR Harajuku (Takeshita Exit)<br/> 6 min. from Tokyo Metro Kitasando (Exit 2)<br/> 9 min. from Tokyo Metro Meiji-jingumae (Exit 5)",
+        "hs1": "Mon - Sun : 11:00 ~ 19:00<br/>Subject to change. Please check our website or social channels for the latest information.",
+        "hs2": "Sat / Sun / Nat. Holidays: Closed",
+        "t2": "Singapore",
+        "address2": "168 Tyrwhitt Road, Singapore 207572",
+        "p2": "6 min. from Bendemeer MRT (Exit B)<br/>9 min. from Lavender MRT (Exit B)<br/>12 min. from Farrer Park MRT (Exit A)",
+        "hs3": "Mon and Public Holidays: Closed<br/>Tue - Sun: 12:00 - 20:00<br/>(Unless otherwise specified)",
+        "hs4": "Closed"
+    },
+    "preloader": {
+        "loading": "Loading",
+        "msg1": "Art",
+        "random_msgs": [
+            "Cool UI",
+            "Magic",
+            "Good vibes",
+            "Secret sauce",
+            "3D sh*t",
+            "Experiences",
+            "Particles",
+            "Exhibitions",
+            "Artists",
+            "Artworks",
+            "Hi Res images"
+        ]
+    },
+    "sidebar": {
+        "contact_btn": "say hello!"
+    },
+    "about": {
+        "t0en": "About",
+        "t0jp": "私たちに関して",
+        "p1": "is an interactive space that curates and brings together creatives from all backgrounds to ignite discovery, imagination, and conversation.",
+        "p2": "It serves as a launchpad for experimental collaborations between artists, designers, and innovators alike.",
+        "p3": "Supported by creative agency UltraSuperNew, we’re excited to be a catalyst in the ever-growing creative ecosystem of Asia. We aspire to challenge popular convention, find fresh narratives, and help bring your creativity to life. Because at the end of the day, we’re just big fans of people making cool sh*t.",
+        "t2": "Our partner",
+        "p4": "Made By She is a series of events hosted by Bae Tokyo and UltraSuperNew Gallery that focuses on the empowerment of local and international women in Tokyo.",
+        "p5": "The events will offer a stage for women and the LGBTQ+ community to come together to discuss ideas, opportunities, and challenges.",
+        "p6": "We are here to experience and create change together.",
+        "p7": "Have something you’re dying to show the world, or just want to find out more about upcoming events?",
+        "p8": "Get in touch with us at"
+    },
+    "contact": {
+        "t1": "Contact",
+        "t2": "Say Hello",
+        "msg1": "Please wait, we are sending your message..",
+        "msg2": "We couldn't send your message. Please try again later.",
+        "address1": {
+            "title": "Tokyo",
+            "address": "<address>1-1-3 Jingumae, Shibuya-ku<br />Tokyo, Japan 150-0001<br /><a href='tel:8107031921804' class='tel'>+81 (0)70 3192 1804</a></address>"
+        },
+        "address2": {
+            "title": "Singapore",
+            "address": "<address>168 Tyrwhitt Rd, <br />Singapore 207572<br /><a href='tel:6562916194' class='tel'>+65 6291 6194</a></address>"
+        },
+        "form": {
+            "name": "Name",
+            "company": "Company",
+            "email": "Your email",
+            "phone": "Phone",
+            "subject": "Subject",
+            "message": "Message",
+            "send": "Send"
+        },
+        "newsletter": "Sign me up to your mailing list"
+    },
+    "events": {
+        "t1": "Events",
+        "p1": "Coming Soon"
+    }
+}

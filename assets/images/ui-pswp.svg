@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="452.516" height="33.328" viewBox="0 0 452.516 33.328">
+  <g id="Group_409" data-name="Group 409" transform="translate(23110.914 22260.414)">
+    <path id="Icon_material-zoom-out" data-name="Icon material-zoom-out" d="M23.25,21H22.065l-.42-.405a9.765,9.765,0,1,0-1.05,1.05l.405.42V23.25l7.5,7.485L30.735,28.5Zm-9,0A6.75,6.75,0,1,1,21,14.25,6.741,6.741,0,0,1,14.25,21Z" transform="translate(-22689.133 -22261.5)" fill="#fff"/>
+    <line id="Line_59" data-name="Line 59" x2="30" y2="30" transform="translate(-22928.5 -22258.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <g id="Group_408" data-name="Group 408" transform="translate(-40 -0.234)">
+      <line id="Line_55" data-name="Line 55" x1="15" y2="15" transform="translate(-23069.5 -22258.766)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_56" data-name="Line 56" x1="15" y1="15" transform="translate(-23069.5 -22243.766)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Group_407" data-name="Group 407" transform="translate(0 -0.234)">
+      <line id="Line_57" data-name="Line 57" x2="15" y2="15" transform="translate(-23021.5 -22258.766)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_58" data-name="Line 58" y1="15" x2="15" transform="translate(-23021.5 -22243.766)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <line id="Line_60" data-name="Line 60" y1="30" x2="30" transform="translate(-22928.5 -22258.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <path id="Icon_open-fullscreen-enter" data-name="Icon open-fullscreen-enter" d="M0,0V8L3,5,6,8,8,6,5,3,8,0ZM10,8,8,10l3,3L8,16h8V8l-3,3Z" transform="translate(-22753.934 -22252)" fill="#fff"/>
+    <path id="Icon_material-fullscreen" data-name="Icon material-fullscreen" d="M9.786,17.786H7.5V23.5h5.714V21.214H9.786ZM7.5,13.214H9.786V9.786h3.429V7.5H7.5Zm13.714,8H17.786V23.5H23.5V17.786H21.214ZM17.786,7.5V9.786h3.429v3.429H23.5V7.5Z" transform="translate(-22830.734 -22259.5)" fill="#fff"/>
+  </g>
+</svg>

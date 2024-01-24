@@ -1,0 +1,5 @@
+0 - Make sure you have PHP installed.
+1 - Open terminal
+2 - Type and enter (without quotations): "cd <location>" (replace <location> with your folder location)
+3 - Type and enter (without quotations): "php -S 127.0.0.1:5660" 
+4 - Open browser and enter - "http://localhost:5660/"

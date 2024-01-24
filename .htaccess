@@ -1,0 +1,13 @@
+Options +SymLinksIfOwnerMatch 
+RewriteEngine On 
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [NC,QSA]
+
+RewriteRule ^/([^/]+)/?$ index.php?lang=$1 [NC,QSA]
+RewriteRule ^/([^/]+)/([^\/]+)/?$ index.php?lang=$1&section=$2 [NC,QSA]
+RewriteRule ^/([^/]+)/([^/]+)/([^\/]+)/?$ index.php?lang=$1&section=$2&item=$3 [NC,QSA]
+
+# Redirect 301 / https://ultrasupernew.gallery/
+# RewriteCond %{REQUEST_URI} !^/?2023$
+# RewriteRule .*  https://ultrasupernew.gallery/ [R=301,L]

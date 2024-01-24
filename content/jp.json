@@ -1,0 +1,115 @@
+{
+    "home": {
+        "btn1": "Past exhibitions",
+        "intro_title": "<span>インタラクティブなスペース</span><span>クリエイティブな人々のための展示会やイベントを主催する</span><span>多様なバックグラウンドから。</span>"
+    },
+    "galaxies": {
+        "hero": {
+            "header": "Current Exhibition",
+            "title": "Exhibition",
+            "enter_btn": "Enter Exhibition"
+        },
+        "exhibition": {
+            "back_btn": "Back",
+            "exhib_by": "Exhibition by",
+            "read_more": "Read More",
+            "about_artists": "About the Artists",
+            "close": "Close",
+            "explore": "Start to explore",
+            "view_more": "Do you want to know more?",
+            "contact": "Let’s talk"
+        },
+        "coming_soon": "すぐに"
+    },
+    "menu": {
+        "home": "Galleries",
+        "events": "Events",
+        "about": "About",
+        "access": "Access",
+        "contact": "Contact",
+        "gallery": "Gallery",
+        "subscribe": "ニュースレターに登録する",
+        "email": "メールアドレスを入力する",
+        "msg1": "メールアドレスを登録しています。今しばらくお待ちください。",
+        "msg2": "メッセージの送信に失敗しました。後でまたお試しください。"
+    },
+    "access": {
+        "t0en": "Access",
+        "t0jp": "経路案内",
+        "link": "地図を表示",
+        "st1": "ギャラリー",
+        "ht1": "展示開催日時：",
+        "ht2": "展示開催日時以外：",
+        "t1": "Tokyo",
+        "address1": "〒150-0001 東京都渋谷区 <br/> 神宮前1-1-3 <br/>",
+        "p1": "JR山手線原宿駅竹下口より徒歩7分<br/> 東京メトロ副都心線北参道駅2番出口より徒歩6分<br/> 東京メトロ千代田線明治神宮前駅5番出口より徒歩9分",
+        "hs1": "月曜日 - 日曜日 : 11:00 ~ 19:00<br/> 開催日時変動有り。最新情報については、当社のウェブサイトまたはSNSをご確認ください。",
+        "hs2": "土曜日／日曜日／祝祭日：休廊",
+        "t2": "Singapore",
+        "address2": "168 ティルウィット ロード、シンガポール 207572",
+        "p2": "ベンデミアMRT（出口B)から徒歩6分<br/> ラベンダーMRT（出口B)から徒歩9分<br/> ファラーパークMRT（出口B)から徒歩12分",
+        "hs3": "火曜日〜日曜日：12:00~20:00（ご要望により営業日変動有り）",
+        "hs4": "月曜・祝日"
+    },
+    "preloader": {
+        "loading": "Loading",
+        "msg1": "Art",
+        "random_msgs": [
+            "Cool UI",
+            "Magic",
+            "Good vibes",
+            "Secret sauce",
+            "3D sh*t",
+            "Experiences",
+            "Particles",
+            "Exhibitions",
+            "Artists",
+            "Artworks",
+            "Hi Res images"
+        ]
+    },
+    "sidebar": {
+        "contact_btn": "say hello!"
+    },
+    "about": {
+        "t0en": "About",
+        "t0jp": "私たちに関して",
+        "p1": "は、多様な背景をもつクリエイティブな人々・団体の展覧会やイベント企画にご利用いただけるインタラクティブ・スペースです。",
+        "p2": "アーティスト、デザイナー、イノベーターとのコラボレーションから生まれる新しい体験を提供し、新たな作品との出会いや人との交流を通じた発見、創造、ディスカッションを支援することを目的とします。",
+        "p3": "クリエイティブ・エージェンシー、UltraSuperNewのサポートのもと、私たちは、進化し続けるアジアのクリエイティブ・コミュニティーを刺激し続ける「きっかけの場」として活動しております。ありきたりの常識に自ら挑戦し、今まで語られることのなかったストーリーを描き、クリエイティビティーに命を吹き込むことを、私たちが常に目指しています。それは、とにかくクールなモノを創ることが私たちを一番夢中にさせるからです。",
+        "t2": "Our partner",
+        "p4": "Made By SheはBae TokyoとUltraSuperNewGalleryの間の協業を通して開催されるイベント・シリーズであり、東京のローカルとインターナショナルコミュニティに属している女性たちに力を吹き込むために努めるプロジェクトである。",
+        "p5": "Made By Sheのイベントは、女性とLGBTQ＋コミュニティが集まり、様々なアイデア、機会、チャレンジなどを共有できる場を提供する。",
+        "p6": "私たちは革新を共に経験し、作っていくために存在する。",
+        "p7": "あなたには、今、世界に発信したいものがありますか？",
+        "p8": "いますぐ下記アドレスにご連絡ください。ギャラリーの最新情報が気になる方も、ぜひお気軽にお問い合わせください。"
+    },
+    "contact": {
+        "t1": "Contact",
+        "t2": "Say Hello",
+        "msg1": "メッセージを送信しています。今しばらくお待ちください。",
+        "msg2": "メッセージの送信に失敗しました。後でまたお試しください",
+        "address1": {
+            "title": "Tokyo",
+            "address": "<address>1-1-3 Jingumae, Shibuya-ku<br />Tokyo, Japan 150-0001<br /><a href='tel:8107031921804' class='tel'>+81 (0)70 3192 1804</a></address>"
+        },
+        "address2": {
+            "title": "Singapore",
+            "address": "<address>168 Tyrwhitt Rd, <br />Singapore 207572<br /><a href='tel:6562916194' class='tel'>+65 6291 6194</a></address>"
+        },
+        "form": {
+            "name": "名前",
+            "company": "会社名",
+            "email": "メールアドレス",
+            "phone": "電話",
+            "subject": "件名",
+            "message": "メッセージ",
+            "send": "送信"
+        },
+        "newsletter": "ギャラリーの最新の情報を入手する"
+    },
+    "events": {
+        "t1": "Events",
+        "p1": "すぐに"
+    }
+}

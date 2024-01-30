@@ -80,7 +80,7 @@
 				$exhiLength = count($exhibitions_array);
 				echo "<script>console.log($exhiLength);</script>";
 
-				$firstPage_array = array_slice($exhibitions_array, 70);
+				$firstPage_array = array_slice($exhibitions_array, 30);
 				$exhiLength = count($firstPage_array);
 				echo "<script>console.log($exhiLength);</script>";
 

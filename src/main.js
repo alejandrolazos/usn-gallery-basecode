@@ -33,8 +33,6 @@ const subTHREE = {
 
 CameraControls.install( { THREE: subTHREE } )
 
-
-
 class WGL{
 
 	constructor(params, wglReady){

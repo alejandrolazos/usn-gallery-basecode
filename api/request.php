@@ -141,12 +141,12 @@
          */
         protected function formatControllerName($unformatted)
         {
-            if (strpos($unformatted, '-') !== false) {
-                $formattedName = array_map('ucwords', explode('-', $unformatted));
+            if (strpos(`$unformatted`, '-') !== false) {
+                $formattedName = array_map('ucwords', explode('-', `$unformatted`));
                 $formattedName = join('', $formattedName);
             } else {
                 // string is one word
-                $formattedName = ucwords($unformatted);
+                $formattedName = ucwords(`$unformatted`);
             }
 
             // if the string starts with number

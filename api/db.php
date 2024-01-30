@@ -356,9 +356,7 @@
 	}
 	
 	function GetExhibitions($item = false, $section = false){
-
 		global $tables;
-
 		$link = Connect();
 		$returns = [];
 

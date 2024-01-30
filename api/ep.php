@@ -72,17 +72,31 @@
 
 		if($path !== ''){
 			$json = file_get_contents($root_path.'/'.$path);
+			
 			if($json){
 				$exhibitions_array = json_decode($json, true);
 				$exhibitions_return = [];
 
-				foreach ($exhibitions_array as $key => $exhib) {
+				$exhiLength = count($exhibitions_array);
+				echo "<script>console.log($exhiLength);</script>";
+
+				$firstPage_array = array_slice($exhibitions_array, 70);
+				$exhiLength = count($firstPage_array);
+				echo "<script>console.log($exhiLength);</script>";
+
+				$fullLength = count($exhibitions_array);
+
+				$secondPage_array = array_slice($exhibitions_array, 30, $fullLength);
+
+				foreach ($firstPage_array as $key => $exhib) {
 
 					$exhibition = []; 
 
 					$exhibition['ID'] = $exhib['id'];
 					$exhibition['section'] = $exhib['post_type'];
 					$exhibition['title'] = $exhib['exhibition'];
+					$giveTitle = json_encode($exhibition['title']);
+					echo "<script>console.log($giveTitle);</script>";
 
 					if(isset($exhib['exhibition']['slug']) && $exhib['exhibition']['slug'] !== ""){
 						$exhibition['path'] = Slug($exhib['exhibition']['slug']);
@@ -126,9 +140,20 @@
 						// print_r($exhibition);
 						// echo '</pre>';
 					}
+					
+					// echo "<script>console.log($exhib);</script>";
+				}
 
+				echo "<script>console.log('second page titles');</script>";
+				foreach ($secondPage_array as $key => $exhib) {
+					$exhibition = []; 
+					
+					$exhibition['title'] = $exhib['exhibition'];
+					$giveTitle = json_encode($exhibition['title']);
+					echo "<script>console.log($giveTitle);</script>";
 				}
 			} else {
+				// echo "<script>console.log('Acá');</script>";
 				$exhibitions_return = [];	
 			}
 			

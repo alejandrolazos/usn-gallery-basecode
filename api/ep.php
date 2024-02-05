@@ -169,11 +169,11 @@
 		$returns = array();
 
 		if( isset($r['poster']['hero'])  ){
-
-			if(!is_dir('content/desktop')){
-				mkdir('content/desktop');
+			
+			if(!is_dir('../content/desktop')){
+				mkdir('../content/desktop');
 			}
-			$dir = 'content/desktop/'.$section;
+			$dir = '../content/desktop/'.$section;
 
 			if(!is_dir($dir)){
 				mkdir($dir);

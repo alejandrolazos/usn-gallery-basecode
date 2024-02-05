@@ -16,14 +16,14 @@
 	if( isset($GET['lang']) && $GET['lang'] === 'jp' ){ 
 		$lang = 'jp'; 
 	}
-
-	$localContent = file_get_contents('./content/'.$lang.'.json');
+	
+	$localContent = file_get_contents('../content/'.$lang.'.json');
 	$localContent = stripslashes(html_entity_decode($localContent));
 	$localContentJSON = json_decode($localContent, TRUE);
 
 	echo '<title>UltraSuperNew Gallery</title>';
 
-	require_once('./api/content.php');
+	require_once('../api/content.php');
 
 	$bodyClass = '_intro'; 
 
@@ -53,7 +53,7 @@
 
 	} else {
 		
-		require_once('./api/cache.php');
+		require_once('../api/cache.php');
 
 		echo '
 			<script type="text/javascript">

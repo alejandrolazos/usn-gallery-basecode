@@ -3,8 +3,8 @@
 	global $root_path;
 	global $lang;
 	global $localContentJSON;
-
-	$filename = './api/cache/cache_last.json';
+	
+	$filename = '../api/cache/cache_last.json';
 
 	if( file_exists($filename) === 1 && time()-filemtime($filename) < 2 * 3600){
 		

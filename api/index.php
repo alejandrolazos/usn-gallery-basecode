@@ -40,7 +40,6 @@
 		<meta name="twitter:card" content="summary_large_image" />
 	
 		<?php require_once('../inc/head.php'); ?>
-		<?php require_once('./'); ?>
 
 	</head>
 	<body class="<?php echo $bodyClass.' '.$lang; ?>">
